@@ -1,22 +1,22 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "FARe: Fault-Aware GNN Training on ReRAM-Based PIM Accelerators<br />DATE 2024; Valencia, Spain",
+    39.4697065,
+    -0.3763353
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "HeTraX: Energy Efficient 3D Heterogeneous Manycore Architecture for Transformers<br />ISLPED 2024; California, USA",
+    36.7014631,
+    -118.755997
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Energy-Efficient hardware Design for LLMs<br />LLM workshop in ESWEEK 2024; Rayleigh, USA",
+    39.993347,
+    -105.2610669
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "ERGO: Energy-Efficient Hybrid Graph Neural Network Training on PIM Architectures<br />ESWEEK 2025; Taipei, Taiwan",
+    25.0375198,
+    121.5636796
   ]
 ];
